@@ -1,5 +1,5 @@
-## Component para criar arquivos via File System no React Native (IOS/ANDROID)
-### rode um npm i
-### yarn start
-### react-native link react-native-fs
-### react-native run-android // ou IOS
+## Aplicação exemplo de como criar arquivos via File System no React Native (IOS/ANDROID)
+### Como rodar a aplicação
+- yarn start
+- react-native link react-native-fs
+- react-native run-android // ou IOS
