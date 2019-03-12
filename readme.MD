@@ -2,5 +2,3 @@
 ### Como rodar a aplicação
 - npm i
 - yarn start
-- react-native link react-native-fs
-- react-native run-android // ou IOS
