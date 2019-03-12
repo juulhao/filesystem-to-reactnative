@@ -1,0 +1,1 @@
+## Component para criar arquivos via File System no React Native (IOS/ANDROID)
